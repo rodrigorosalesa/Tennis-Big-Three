@@ -3,9 +3,7 @@
 
 <br>
 
-<p align="center">
 <img src="images\big3.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="500"/>
-</p>
 
 <br> <br> 
 
