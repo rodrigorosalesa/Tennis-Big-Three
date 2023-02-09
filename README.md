@@ -1,7 +1,7 @@
 # Tennis Insights: Analyzing the career of the BIG THREE
 ### By [Rodrigo Rosales Alvarez](https://www.linkedin.com/in/rodrigorosalesalvarez/)
 
-<img src="images\big_three.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="700"/>
+<img src="images\big_three.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="650"/>
 
 <br> <br> 
 
@@ -53,9 +53,19 @@ Write here
 <br>
 
 ## Q1: HOW DID FEDERER, NADAL AND DJOKOVIC MOVED IN THE RANKINGS THROUGHOUT THE YEARS?
-Write here
+The ATP (Association of Tennis Professionals) Ranking is the system used by the men's professional tennis tour to determine the top players in the world based on their performance in tournaments. The rankings are updated on a weekly basis, and are an important factor in determining player seeding for tournaments, as well as in decisions regarding wildcard entries, direct acceptances, and special exempts. 
 
-<br>
+On the following visualization we are able to see how Roger, Rafael and Novak moved in the ATP ranking throughout their careers.
+
+<img src="images\q1_ranking.png" alt="Ranking" width="600"/> <br>
+
+As we can see, since 2004 these 3 players have dominated the ATP ranking. On the image above I am showing the end year ranking as the goal to every tennis player is finish the year at the top of the rankings, meaning there was no other player better than them in the season. Federer has finished 5 year-end no. 1 (2004, 2005, 2006, 2007, 2009), Nadal has 5 (2008, 2010, 2013, 2017, 2019) and Djokovic has the record with 7 (2011, 2012, 2014, 2015, 2018, 2020, 2021). Only 2 years since 2004 other tennis player apart from the big three have finished the year as no. 1, in 2016 Andy Murray and in 2022 Carlos Alcaraz.
+
+Moreover, in the following table we can appreciate even more the dominance of the Big Three; since 2004 until January 30th of 2023, 941 have passed in which the Big Three have combined 802 week at the top of the ranking, this means that three players have shared the title of “best player of the world” more than 88% percent of the time. It is important to state that despite Djokovic hold the record for more weeks as no. 1, Federer holds the record for more consecutive weeks at the top with 237 starting February 2nd of 2004 and ended 17 August 2008 after loosing the Wimbledon final with Nadal.
+
+<img src="images\q1_weeks.png" alt="Weeks as no. 1" width="400"/>
+
+<br> <br>
 
 ## Q2: BEST SINGLE SEASON OF THE BIG THREE
 Write here
