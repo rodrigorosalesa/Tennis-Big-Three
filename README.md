@@ -1,9 +1,7 @@
 # Tennis Insights: Analyzing the career of the BIG THREE
 ### By [Rodrigo Rosales Alvarez](https://www.linkedin.com/in/rodrigorosalesalvarez/)
 
-<br>
-
-<img src="images\big_three.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="500"/>
+<img src="images\big_three.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="700"/>
 
 <br> <br> 
 
@@ -40,7 +38,7 @@ In this project, I aim to analyze their performance and compare their statistics
 <br>
 
 ## DATASET
-Write here
+To answer my guiding questions, I am using data of every match played in the profesional tennis circuit. Data was obtained from a Git repository named [Tennis ATP](https://github.com/JeffSackmann/tennis_atp) that was created and is currently maintained by Jeff Sackman. Important statistics of every match can be observed, alongside information about the tournaments, ranking and more.
 
 <br>
 
