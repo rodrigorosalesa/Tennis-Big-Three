@@ -14,8 +14,8 @@
 - [Methodology](README.md#methodology)
 - [Tools](README.md#tools)
 - [Q1: How did Federer, Nadal and Djokovic moved in the rankings throughout the years?](README.md#q1-how-did-federer-nadal-and-djokovic-moved-in-the-rankings-throughout-the-years)
-- [Q2: best single season of the big three](README.md#q2-best-single-season-of-the-big-three)
-- [Q3: Breakdown of tittles earned](README.md#q3-breakdown-of-tittles-earned)
+- [Q2: Best single season of the big three](README.md#q2-best-single-season-of-the-big-three)
+- [Q3: Titles breakdown](README.md#q3-titles-breakdown)
 - [Q4: Who has a better serve?](README.md#q4-who-has-a-better-serve)
 - [Q5: Who performs better under preasure?](README.md#q5-who-performs-better-under-preasure)
 - [Final Thoughts](README.md#final-thoughts)
@@ -31,7 +31,11 @@ In this project, I aim to analyze their performance and compare their statistics
 <br>
 
 ## GUIDING QUESTIONS
-Write here
+1. How did Federer, Nadal and Djokovic moved in the rankings throughout the years?
+2. Best single season of the big three
+3. Titles breakdown
+4. Who has a better serve?
+5. Who performs better under preasure?
 
 <br>
 
@@ -60,7 +64,7 @@ Write here
 
 <br>
 
-## Q3: BREAKDOWN OF TITTLES EARNED
+## Q3: TITLES BREAKDOWN
 Write here
 
 <br>
