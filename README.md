@@ -95,18 +95,33 @@ On average a player outside the top 100 of the world plays around 20 – 30 tour
 
 Here below we can see a line graph that represents the breakdown of the titles of the Big Three during their careers. 
 
-<img src="images\q3_titles_count.png" alt="Titles count through the years" width="1200"/>
+<img src="images\q2_titles_count.png" alt="Titles count through the years" width="1200"/>
 
 As we observed, Roger Federer is the one with most titles among the 3, with 103, being the only active player that has surpassed the barrier of 100 titles won. In a single season Federer holds the record for a male player with most titles with 12 in the season of 2006. Novak Djokovik is in a close second with 94 titles and Nadal is last with 92. 
 
 As we mentioned Grand Slams tournaments are the most prestigious event in the year, the titles that all tennis players cherish the most. Since July of 2003 there has been 79 Gran Slams held, the Big Three has won 64 of them, in other words they have won 81% of the Grand Slams in the last 20 years. In the graph below we can see Federer has a total of 20, being more dominant in Wimbledon with 8 titles, Nadal and Djokovic are tight with 22, 14 titles for the Spaniard in Roland Garros and 10 titles for the Serbian in the Australian Open, those torunaments are their best performing Slams.
 
-<img src="images\q3_grand_slams_count.png" alt="GS count through the years" width="1200"/>
+<img src="images\q2_grand_slams_count.png" alt="GS count through the years" width="1200"/>
 
 <br>
 
 ## Q3: BEST SINGLE SEASON OF THE BIG THREE
-Write here
+During their career the has been moments when these athletes played in a godly manner, appearing to be invincible, on this question I want to showcase the best season of their carers and analysing the most important stats. To have a comparison, in the table below is represented the win-lose ratio of their career. 
+
+<p align="center">
+<img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="400"/>
+</p>
+
+**Rafael Nadal 2013 Season**
+
+<img src="images\q3_gnadal.png" alt="GS count through the years" width="1200"/>
+
+Considerer one of the greatest comeback season of all time, as the previous year Nadal was not playing since June due a to an injury, he even missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. He had a a win-lose ratio of 92.5% (10% over WL Ratio oh his career), winning 81 matches out of 88 matches played. He lost only two matches during the clay season and won 6 titles. He accumulated a 22 winning streak during a the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
+<br>
+
+**Novak Djokovik 2015 Season**
+
+**Roger Federer 2006 Season**
 
 <br>
 
