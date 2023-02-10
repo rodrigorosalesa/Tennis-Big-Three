@@ -1,9 +1,7 @@
 # Tennis Insights: Analyzing the career of the BIG THREE
 ### By [Rodrigo Rosales Alvarez](https://www.linkedin.com/in/rodrigorosalesalvarez/)
 
-<p align="center">
 <img src="images\big_three.png" alt="Tennis Big 3: Roger Federer, Rafael Nadal, Novak Djokovic" width="650"/>
-</p>
 
 <br> <br> 
 
@@ -16,7 +14,7 @@
 - [Q1: How did Federer, Nadal and Djokovic moved in the rankings throughout the years?](README.md#q1-how-did-federer-nadal-and-djokovic-moved-in-the-rankings-throughout-the-years)
 - [Q2: Best single season of the big three](README.md#q2-best-single-season-of-the-big-three)
 - [Q3: Titles breakdown](README.md#q3-titles-breakdown)
-- [Q4: Who has a better serve?](README.md#q4-who-has-a-better-serve)
+- [Q4: Who has a better serve?](README.md#q4-who-has-better-serve)
 - [Q5: Who performs better under preasure?](README.md#q5-who-performs-better-under-preasure)
 - [Final Thoughts](README.md#final-thoughts)
 - [References](README.md#references)
@@ -45,12 +43,26 @@ To answer my guiding questions, I am using data of every match played in the pro
 <br>
 
 ## METHODOLOGY
-Write here
+1. Problem Definition
+2. Data Cleaning
+    - Null values
+    - Type of columns
+    - Column names
+3. Feature Engineering
+4. Deep Analysis
+5. Data Visualization
+6. Conclusions
 
 <br>
 
 ## TOOLS
-Write here
+- Python: used for data cleaning, data wrangling and exploration of data
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+- Tableau: used to create final visualziations to showcase my findings
+- GitHub: used to have a version control of my work and publish my project using GitHub Pages.
 
 <br>
 
@@ -59,10 +71,7 @@ The ATP (Association of Tennis Professionals) Ranking is the system used by the 
 
 On the following visualization we are able to see how Roger, Rafael and Novak moved in the ATP ranking throughout their careers.
 
-<p align="center">
 <img src="images\q1_ranking.png" alt="Ranking" width="1000"/> 
-</p>
-<br>
 
 As we can see, since 2004 these 3 players have dominated the ATP ranking. On the image above I am showing the end year ranking as the goal to every tennis player is finish the year at the top of the rankings, meaning there was no other player better than them in the season. Federer has finished 5 year-end no. 1 (2004, 2005, 2006, 2007, 2009), Nadal has 5 (2008, 2010, 2013, 2017, 2019) and Djokovic has the record with 7 (2011, 2012, 2014, 2015, 2018, 2020, 2021). Only 2 years since 2004 other tennis player apart from the big three have finished the year as no. 1, in 2016 Andy Murray and in 2022 Carlos Alcaraz.
 
@@ -84,7 +93,7 @@ Write here
 
 <br>
 
-## Q4: WHO HAS A BETTER SERVE?
+## Q4: WHO HAS BETTER SERVE?
 Write here
 
 <br>
