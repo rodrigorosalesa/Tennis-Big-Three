@@ -112,19 +112,33 @@ During their career the has been moments when these athletes played in a godly m
 <img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="400"/>
 </p>
 
+<br>
+
 **Rafael Nadal 2013 Season**
 
-<img src="images\q3_gnadal.png" alt="GS count through the years" width="1200"/>
+<img src="images\q3_nadal.png" alt="Nadal's 2013 season" width="1200"/>
 
-Considerer one of the greatest comeback season of all time, as the previous year Nadal was not playing since June due a to an injury, he even missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. He had a a win-lose ratio of 92.5% (10% over WL Ratio oh his career), winning 81 matches out of 88 matches played. He lost only two matches during the clay season and won 6 titles. He accumulated a 22 winning streak during a the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
+Considerer one of the greatest comeback seasons of all time, as the previous year Nadal was not playing since June due a to an injury, he even missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. 
+
+He had a a win-lose ratio of 92.5% (9.88% over the WL Ratio oh his career), winning 81 matches out of 88. He lost only two matches during the clay season and won 6 clay titles. He accumulated a 22 winning streak during a the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
 
 <p align="center">
-<img src="images\q3_nadal_matches.png" alt="Career´s Win-Lose Ratio" width="500"/>
+<img src="images\q3_nadal_matches.png" alt="Nadal´s 2013 matches" width="500"/>
 </p>
 
 <br>
 
 **Novak Djokovik 2015 Season**
+
+<img src="images\q3_djokovic.png" alt="Djokovic's 2015 season" width="1200"/>
+
+Djokovic began a dominance in profesional tennis in the season of 2011, but his greatest season came in 2015, considered one of the greatest seasons of all time. He reached the final of all of the Grand Slam, winning 3 Australian Open, Wimbledon and US Open. The serbian was the no. 1 player of the world for the whole year, won 6 M1000 tournament and reaching the final in 8 of them and even claiming the ATP World Tour Finals, an event that only the 8 best player of the year can enter. 
+
+Djokovik ended his 2015 season with 11 tittles won, a Win-Lose Ratio of 93.26% (9.64% over the WL Ratio oh his career), winning 83 matches out of 89. He finished the season with a record of of 4-0 againts Nadal, even beating him at the quarter finals of Roland Garros, and a record of 5-3 versus Federer, including his victory in the Wimbledon Final. He lost to Ivo Karlovik in the quarter finals of the Qatar Open, making this tournament the only onw in which he did´t got at least to the final. 
+
+<p align="center">
+<img src="images\q3_djokovic_matches.png" alt="Djokovic´s 2015 matches" width="500"/>
+</p>
 
 **Roger Federer 2006 Season**
 
