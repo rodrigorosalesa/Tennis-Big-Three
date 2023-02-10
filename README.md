@@ -109,7 +109,7 @@ As we mentioned Grand Slams tournaments are the most prestigious event in the ye
 During their career the has been moments when these athletes played in a godly manner, appearing to be invincible, on this question I want to showcase the best season of their carers and analysing the most important stats. To have a comparison, in the table below is represented the win-lose ratio of their career. 
 
 <p align="center">
-<img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="400"/>
+<img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="200"/>
 </p>
 
 <br>
@@ -134,13 +134,25 @@ He had a a win-lose ratio of 92.5% (9.88% over the WL Ratio oh his career), winn
 
 Djokovic began a dominance in profesional tennis in the season of 2011, but his greatest season came in 2015, considered one of the greatest seasons of all time. He reached the final of all of the Grand Slam, winning 3 Australian Open, Wimbledon and US Open. The serbian was the no. 1 player of the world for the whole year, won 6 M1000 tournament and reaching the final in 8 of them and even claiming the ATP World Tour Finals, an event that only the 8 best player of the year can enter. 
 
-Djokovik ended his 2015 season with 11 tittles won, a Win-Lose Ratio of 93.26% (9.64% over the WL Ratio oh his career), winning 83 matches out of 89. He finished the season with a record of of 4-0 againts Nadal, even beating him at the quarter finals of Roland Garros, and a record of 5-3 versus Federer, including his victory in the Wimbledon Final. He lost to Ivo Karlovik in the quarter finals of the Qatar Open, making this tournament the only onw in which he did´t got at least to the final. 
+Djokovik ended his 2015 season with 11 tittles won, a Win-Lose Ratio of 93.26% (9.64% over the WL Ratio oh his career), winning 83 matches out of 89. He finished the season with a record of of 4-0 againts Nadal, even beating him at the quarter finals of Roland Garros, and a record of 5-3 versus Federer, including his victory in the Wimbledon Final. He lost to Ivo Karlovik in the quarter finals of the Qatar Open, making this tournament the only onw in which he did´t got at least to the final. Novak Djokovic is considered the player of the 2010s decade.
 
 <p align="center">
 <img src="images\q3_djokovic_matches.png" alt="Djokovic´s 2015 matches" width="500"/>
 </p>
 
+<br>
+
 **Roger Federer 2006 Season**
+
+<img src="images\q3_federer.png" alt="Federer's 2006 season" width="1200"/>
+
+During the end of 2003 until 2007 we saw the Swiss dominated profesional tennis like no one has done it before and probably no player would ever do it again. Roger´s 2006 season is considered by many tennis experts the best tennis season of the open era. He mantained the no. 1 position in the ATP ranking for the whole year, and finished no. 1 for a third year in a row, he won 3 Grand Slams, the Australian Open, Wimbledon for a fourth time in a row and the US Open for a third time in a row; he lost in the Final of Roland Garros to the king of clay. 
+
+In addition to that, Federer reached the finals in 6 M100 finals from the 7 that he entered and won 4 on hard courts and loosing 2 in clay. He won the ATP World Tour Finals. He finished the year with a record of 12 titles, becoming the male player with most titles in a single season. He ended the season with a Win-Lose Ratio of 94.85% (12.07 over the WL Ratio oh his career), winning 92 matches out of 97. He reached the finals of every tournament he played but the Cincinnati Masters where he lost to Andy Murray in the second round. Roger Federer is considered the tennis player of the 2000s decade.
+
+<p align="center">
+<img src="images\q3_federer_matches.png" alt="Federer´s 2006 matches" width="500"/>
+</p>
 
 <br>
 
