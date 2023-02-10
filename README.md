@@ -117,6 +117,11 @@ During their career the has been moments when these athletes played in a godly m
 <img src="images\q3_gnadal.png" alt="GS count through the years" width="1200"/>
 
 Considerer one of the greatest comeback season of all time, as the previous year Nadal was not playing since June due a to an injury, he even missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. He had a a win-lose ratio of 92.5% (10% over WL Ratio oh his career), winning 81 matches out of 88 matches played. He lost only two matches during the clay season and won 6 titles. He accumulated a 22 winning streak during a the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
+
+<p align="center">
+<img src="images\q3_nadal_matches.png" alt="Career´s Win-Lose Ratio" width="500"/>
+</p>
+
 <br>
 
 **Novak Djokovik 2015 Season**
