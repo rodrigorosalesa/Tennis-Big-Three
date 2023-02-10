@@ -14,8 +14,8 @@
 - [Q1: How did Federer, Nadal and Djokovic moved in the rankings throughout the years?](README.md#q1-how-did-federer-nadal-and-djokovic-moved-in-the-rankings-throughout-the-years)
 - [Q2: Titles breakdown](README.md#q3-titles-breakdown)
 - [Q3: Best single season of the big three](README.md#q2-best-single-season-of-the-big-three)
-- [Q4: Who has a better serve?](README.md#q4-who-has-better-serve)
-- [Q5: Who performs better under preasure?](README.md#q5-who-performs-better-under-preasure)
+- [Q4: Who performs better under preasure?](README.md#q4-who-performs-better-under-preasure)
+- [Q5: How does their serve varies according to the surface played?](README.md#q5-how-does-their-serve-varies-according-to-the-surface-played)
 - [Final Thoughts](README.md#final-thoughts)
 - [References](README.md#references)
 
@@ -109,7 +109,7 @@ As we mentioned Grand Slams tournaments are the most prestigious event in the ye
 During their career the has been moments when these athletes played in a godly manner, appearing to be invincible, on this question I want to showcase the best season of their carers and analysing the most important stats. To have a comparison, in the table below is represented the win-lose ratio of their career. 
 
 <p align="center">
-<img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="200"/>
+<img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="300"/>
 </p>
 
 <br>
@@ -146,9 +146,9 @@ Djokovik ended his 2015 season with 11 tittles won, a Win-Lose Ratio of 93.26% (
 
 <img src="images\q3_federer.png" alt="Federer's 2006 season" width="1200"/>
 
-During the end of 2003 until 2007 we saw the Swiss dominated profesional tennis like no one has done it before and probably no player would ever do it again. Roger´s 2006 season is considered by many tennis experts the best tennis season of the open era. He mantained the no. 1 position in the ATP ranking for the whole year, and finished no. 1 for a third year in a row, he won 3 Grand Slams, the Australian Open, Wimbledon for a fourth time in a row and the US Open for a third time in a row; he lost in the Final of Roland Garros to the king of clay. 
+During the end of 2003 until 2007 we saw the Swiss dominated professional tennis like no one has done it before and probably no player would ever do it again. Roger´s 2006 season is considered by many tennis experts the best tennis season of the open era. He maintained the no. 1 position in the ATP ranking for the whole year and finished no. 1 for a third year in a row, he won 3 Grand Slams, the Australian Open, Wimbledon for a fourth time in a row and the US Open for a third time in a row; he lost in the Final of Roland Garros to the king of clay. 
 
-In addition to that, Federer reached the finals in 6 M100 finals from the 7 that he entered and won 4 on hard courts and loosing 2 in clay. He won the ATP World Tour Finals. He finished the year with a record of 12 titles, becoming the male player with most titles in a single season. He ended the season with a Win-Lose Ratio of 94.85% (12.07 over the WL Ratio oh his career), winning 92 matches out of 97. He reached the finals of every tournament he played but the Cincinnati Masters where he lost to Andy Murray in the second round. Roger Federer is considered the tennis player of the 2000s decade.
+In addition to that, Federer reached the finals in 6 M100 finals from the 7 that he entered and won 4 on hard courts and loosing 2 in clay. He won the ATP World Tour Finals. He finished the year with a record of 12 titles, becoming the male player with most titles in a single season. He ended the season with a Win-Lose Ratio of 94.85% (12.07 over the WL Ratio oh his career), winning 92 matches out of 97, he finished the year with a 27 winning streak that continued in the 2007 season to win 41 matches in a row. He reached the finals of every tournament he played but the Cincinnati Masters where he lost to Andy Murray in the second round. Roger Federer is considered the tennis player of the 2000s decade.
 
 <p align="center">
 <img src="images\q3_federer_matches.png" alt="Federer´s 2006 matches" width="500"/>
@@ -156,13 +156,23 @@ In addition to that, Federer reached the finals in 6 M100 finals from the 7 that
 
 <br>
 
-## Q4: WHO HAS BETTER SERVE?
+## Q4: WHO PERFORMS BETTER UNDER PREASURE?
 Write here
 
 <br>
 
-## Q5: WHO PERFORMS BETTER UNDER PREASURE?
-Write here
+## Q5: HOW DOES THEIR SERVE VARIES ACCORDING TO THE SURFACE PLAYED?
+The serve is considered the most important shot in tennis because it sets the tone for the entire point. A good serve gives a player a significant advantage and allows them to dictate the pace of the rally. If a player can consistently serve well, they can control the game, put pressure on their opponent, and create opportunities for easy points. Additionally, serving well can also help a player maintain their confidence and mental edge throughout the match.
+
+In the table below we can observed the career most importat statistics to analyze a good serve for the Big Three.
+- Ratio First Serve In: ratio of 1st serves in and 1st serves made.
+$% 1st serve ratio = \frac{# of 1st serves in}{# of first serves produced}$
+
+There are four different tennis surfaces in which profesional torunaments are played, Hard, Caly, Grass and Carpet; deppending on the surface the ball will bounce in different speeds and high altering completely how the the opponent on the other side of the court will fell the coming serve. 
+
+- Hard Courts: most common type of surface composed on aspahlt and concrete with a coatin of pait or acrylic on top. This type of surfaces have lower energy assumption than clay courts, making the ball move faster. This benefits aggresive players that like to play from the baseline. 
+- Clay courts: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface for ball speed, making it easier to return a high speed serve. In the countrary if offers high bounce so players that hit with a lot of top-spin are highly favourable; moreover points tend to last longer. 
+- Grass Courts: a grass surface consists of short-cut grass on a tighly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and also offers the lowest bounce, making rallies short and fast, this type of courts 
 
 <br>
 
