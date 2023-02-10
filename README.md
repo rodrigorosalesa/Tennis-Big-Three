@@ -95,13 +95,13 @@ On average a player outside the top 100 of the world plays around 20 – 30 tour
 
 Here below we can see a line graph that represents the breakdown of the titles of the Big Three during their careers. 
 
-<img src="images\q3_titles_count.png" alt="Titles count through the years" width="900"/>
+<img src="images\q3_titles_count.png" alt="Titles count through the years" width="1200"/>
 
 As we observed, Roger Federer is the one with most titles among the 3, with 103, being the only active player that has surpassed the barrier of 100 titles won. In a single season Federer holds the record for a male player with most titles with 12 in the season of 2006. Novak Djokovik is in a close second with 94 titles and Nadal is last with 92. 
 
 As we mentioned Grand Slams tournaments are the most prestigious event in the year, the titles that all tennis players cherish the most. Since July of 2003 there has been 79 Gran Slams held, the Big Three has won 64 of them, in other words they have won 81% of the Grand Slams in the last 20 years. In the graph below we can see Federer has a total of 20, being more dominant in Wimbledon with 8 titles, Nadal and Djokovic are tight with 22, 14 titles for the Spaniard in Roland Garros and 10 titles for the Serbian in the Australian Open, those torunaments are their best performing Slams.
 
-<img src="images\q3_grand_slams_count.png.png" alt="Titles count through the years" width="900"/>
+<img src="images\q3_grand_slams_count.png" alt="GS count through the years" width="1200"/>
 
 <br>
 
