@@ -57,10 +57,10 @@ To answer my guiding questions, I am using data of every match played in the pro
 
 ## TOOLS
 - Python: used for data cleaning, data wrangling and exploration of data
-    - Pandas
-    - Numpy
-    - Matplotlib
-    - Seaborn
+    - [Pandas](https://pandas.pydata.org/)
+    - [Numpy](https://numpy.org/)
+    - [Matplotlib](https://matplotlib.org/)
+    - [Seaborn](https://seaborn.pydata.org/)
 - Tableau: used to create final visualziations to showcase my findings
 - GitHub: used to have a version control of my work and publish my project using GitHub Pages.
 
