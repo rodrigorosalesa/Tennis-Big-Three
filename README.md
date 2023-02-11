@@ -210,10 +210,14 @@ Despite the serve is the most important shot in tennis, there are other importan
 <br>
 
 ## FINAL THOUGHTS
-Write here
+gggg
 
 <br>
 
 ## REFERENCES
-Write here
+- ATP Tour. (2020). ATP Rankings FAQ. Obtained from ATP Rankings: https://www.atptour.com/en/rankings/rankings-faq
+- Cazzaro, A. (5 de July de 2020). Understanding the Importance of First Serve in Tennis with Data Analysis. Obtained from Medium: https://towardsdatascience.com/understanding-the-importance-of-first-serve-in-tennis-with-data-analysis-4829ab088d36
+- Master Class. (7 de June de 2021). Explore the 4 Types of Tennis Courts, From Clay to Synthetic. Obtained from Master Class - Articles: https://www.masterclass.com/articles/types-of-tennis-courts
+
+
 
