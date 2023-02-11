@@ -99,6 +99,10 @@ Here below we can see a line graph that represents the breakdown of the titles o
 
 As we observed, Roger Federer is the one with most titles among the 3, with 103, being the only active player that has surpassed the barrier of 100 titles won. In a single season Federer holds the record for a male player with most titles with 12 in the season of 2006. Novak Djokovik is in a close second with 94 titles and Nadal is last with 92. 
 
+To understand better what big tournaments (Grand Slams, M1000 and World Tour Finals) the Big Three has won over the years I created the following Tree Map, subdivided by tournament and player; the size and color are represented with the number of matches won in the event, first number is the number of wins and second is the number is the number of titles won. Nadal has dominated the French Open since his first title in 2005 at the age of 19. Federer has more wins in the rest of the Grand Slams, Wimbledon with 106, Australian Open with 103 and US Open with 91. 
+
+<img src="images\q2_titles_tree.png" alt="Big titles and matches won distribution" width="1200"/>
+
 As we mentioned Grand Slams tournaments are the most prestigious event in the year, the titles that all tennis players cherish the most. Since July of 2003 there has been 79 Gran Slams held, the Big Three has won 64 of them, in other words they have won 81% of the Grand Slams in the last 20 years. In the graph below we can see Federer has a total of 20, being more dominant in Wimbledon with 8 titles, Nadal and Djokovic are tight with 22, 14 titles for the Spaniard in Roland Garros and 10 titles for the Serbian in the Australian Open, those torunaments are their best performing Slams.
 
 <img src="images\q2_grand_slams_count.png" alt="GS count through the years" width="1200"/>
@@ -157,14 +161,22 @@ In addition to that, Federer reached the finals in 6 M100 finals from the 7 that
 <br>
 
 ## Q4: WHO PERFORMS BETTER UNDER PREASURE?
-Write here
+In tennis, pressure points are moments in a match when the outcome could significantly impact the outcome of the game, set, or match. These moments often arise in critical situations, such as during crucial points in a game, break points, set points, or match points. 
+
+On the following graph we can observe three important statistics, break point saved ratio at serving, break point conversion ratio ar return and preassure points won ratio, which is an average of the previous two; this last one is the best representation on how good a player is handling the preassure.
+
+Nadal has the higher score in this statistic with a 54.09% during his career, Djokovic in close second and Federer in third place. One of the key aspects to win important points, apart from the tennis skills, is the mental strength of the player and the ability to manage the nerves, Rafael Nadal is considered by many the greatest fighter on tour and with one of the toughest mentalities on tour.  
+
+<p align="center">
+<img src="images\q5_preassure_points.png" alt="Preassure points ratio" width="550"/>
+</p>
 
 <br>
 
 ## Q5: HOW DOES THEIR SERVE STATISTICS VARIES ACCORDING TO THE SURFACE PLAYED?
 The serve is considered the most important shot in tennis because it sets the tone for the entire point. A good serve gives a player a significant advantage and allows them to dictate the pace of the rally. If a player can consistently serve well, they can control the game, put pressure on their opponent, and create opportunities for easy points. Additionally, serving well can also help a player maintain their confidence and mental edge throughout the match.
 
-In the table below we can observed the career most importat statistics to analyze a good serve.
+In the table below we can observe the most importat statistics to analyze a good serve.
 
 - $\text{1st serve ratio} = \frac{\text{[no. of 1st serves in]}}{\text{[total 1st serves]}}$
 
@@ -174,9 +186,9 @@ In the table below we can observed the career most importat statistics to analyz
 
 - $\text{Prob. of winning a point after a succesful 2nd serve} = \frac{\text{[points won with the 2nd serve]}}{\text{[no. of 2nd serves in]}}$
 
-- $\text{Prob. of winning a point at serve} = \text{[1st serve ratio] } * \text{ [Prob. of winning a point after a succesful 1st serve]} + (1 - \text{[1st serve ratio]}) * \text{ [2nd serve ratio] } * \text{ [Prob. of winning a point after a succesful 2nd serve]}$
+- $\text{Prob. of winning a point when serve is good} = \text{[1st serve ratio] } * \text{ [Prob. of winning a point after a succesful 1st serve]} + (1 - \text{[1st serve ratio]}) * \text{ [2nd serve ratio] } * \text{ [Prob. of winning a point after a succesful 2nd serve]}$
 
-On the graph below we acan observe that Nadal has a the higher 1st serve percentage with 67.74% and Federer the best 2nd serve with 93.87. Making a succesful serve does not warranty you better results, you need to make sure that is a good enough shot to help you dictate the point. According to Andrea Cazzaro, the best way to understand the influence of the serve in a match is to compute the probability of winning a point at serve which is calculated with the probability of winning a point after a succesful 1st serve and the probability og winning a point after a succesful 2nd serve. As we can see Federer has a better chance to win the point at serve with a 70.78%, Djocovik is second with 68.53% and Nadal last with 68.35%. Depite Federer not having the fastests serve with an average of 200 km/hr he is probably one of the best ones at varying effects and directions making his opponents always guessing what type of serve is comminig. 
+On the graph below we see that Nadal has the higher 1st serve percentage with 67.74% and Federer the best 2nd serve with 93.87. Making a successful serve does not warranty you better results, you need to assure that is a good enough shot to help you dictate the point. According to Andrea Cazzaro, the best way to understand the influence of the serve in a match is to compute the probability of winning a point when the serve is in which is calculated with the probability of winning a point after a successful 1st serve and the probability of winning a point after a successful 2nd serve (formula described above). As we can see Federer has a better chance to win the point after having a successful serve with a 70.78%, Djokovic is second with 68.53% and Nadal last with 68.35%. Despite Federer not having the fastest serve with an average of 200 km/hr he is probably one of the best ones at varying effects and directions making his opponents always guessing what type of serve is coming. 
 
 <p align="center">
 <img src="images\q5_serve_all.png" alt="Serve Statistics" width="600"/>
@@ -184,18 +196,16 @@ On the graph below we acan observe that Nadal has a the higher 1st serve percent
 
 <br>
 
-There are four different tennis surfaces in which profesional torunaments are played, Hard, Caly, Grass and Carpet; deppending on the surface the ball will bounce in different speeds and high altering completely how the opponent will fell the coming serve, thus players needs to make adjustements in their game. 
+There are four different tennis surfaces in which professional tournaments are played, Hard, Clay, Grass and Carpet; depending on the surface the ball will bounce in different speeds and high altering completely how the opponent will fell the coming serve; thus players need to make adjustments in their game. 
 
-- _Hard Courts_: most common type of surface composed on aspahlt and concrete with a coatin of pait or acrylic on top. This type of surfaces have lower energy assumption than clay courts, making the ball move faster. This benefits aggresive players that like to play from the baseline. 
-- _Clay courts_: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface for ball speed, making it easier to return a high speed serve. In the countrary if offers high bounce so players that hit with a lot of top-spin are highly favourable; moreover points tend to last longer. 
-- _Grass Courts_: a grass surface consists of short-cut grass on a tighly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and also offers the lowest bounce, making rallies short and fast, this type of courts are befeficial to great servers. 
-- _Carpet Courts_: also called synthetic, offers all the advantages of a grass court like the high speed and low bounce but with a super low maintenance cost. On top of the syntethic fiber sand covers the court to help it decrease the wear over time. 
-
-Federer is the leader with a probability of winning a point at serve higher regardless of the surface, with the highest probability in grass, where he had the most suscess in his career. 
+- _Hard Courts_: most common type of surface composed on asphalt and concrete with a coating of paint or acrylic on top. This type of surface has lower energy assumption than clay courts, making the ball move faster. This benefits aggressive players that like to play from the baseline. 
+- _Clay courts_: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface for ball speed, making it easier to return a high speed serve. In the contrary if offers high bounce so players that hit with a lot of topspin are highly favourable; moreover, points tend to last longer. 
+- _Grass Courts_: a grass surface consists of short-cut grass on a tightly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and offers the lowest bounce, making rallies short and fast, this type of courts is beneficial to great servers. 
+- _Carpet Courts_: also called synthetic, offers all the advantages of a grass court like the high speed and low bounce but with a super low maintenance cost. On top of the synthetic fiber sand covers the court to help it decrease the wear over time. 
 
 <img src="images\q5_serve_surface.png" alt="Serve Statistics by surface played" width="700"/>
 
- Despite serving is the most important shot in tennis, there are other important factors that can alter the outcome of the match, for example the physical conditioin of the player, ground strokes, volleys, mentally sntrenght, etc. To showcase this argument I included the W-L Ratio of their career by surface. Nadal has a 91.05% W-L ratio on Clay and he posses the longest win streak in a single surface with 81 matches won between 2005 and 2007. Djokovik best W-L ratio is on hard courts with 84.71% and Federer on Grass with 87.78%.
+Despite the serve is the most important shot in tennis, there are other important factors that can alter the outcome of the match, for example the physical condition of the player, ground strokes, volleys, mentally strength, etc. To showcase this argument, I included the W-L Ratio of their career by surface. Nadal has a 91.05% W-L ratio on Clay and he posses the longest win streak in a single surface with 81 matches won between 2005 and 2007. Djokovic best W-L ratio is on hard courts with 84.71% and Federer on Grass with 87.78%.
 
 <br>
 
