@@ -210,7 +210,9 @@ Despite the serve is the most important shot in tennis, there are other importan
 <br>
 
 ## FINAL THOUGHTS
-gggg
+The Big Three conformed by Roger Federer, Rafael Nadal, and Novak Djokovic, has dominated the tennis professional circuit for over two decades, winning everything that is to win, breaking every record and producing many of the greatest matches of all time. The debate for who is the Greatest Off All Time will not stop because what these legends have done is beyond measure, numbers can not fully encompass the extent of their legacy nor can describe what the millions of people they have inspired. 
+
+One thing is certain, they have redefined what it means to be a tennis player and the impact they have had on and off the court will be perpetual. 
 
 <br>
 
