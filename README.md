@@ -85,11 +85,11 @@ Moreover, in the following table we can appreciate even more the dominance of th
 
 ## Q2: TITLES BREAKDOWN
 Winning an ATP tournament is the greatest accomplishment when entering to the professional level in tennis, winning tournaments mean more points for the ranking system and more money earned. Tournaments in the ATP circuit are divided by level:
-- Grand Slam: 4 tournam-ents per year. This type of events gives the most money and the most points, the winner wins 2000 ATP points. 
-- Master Finals: 1 tournament per year and only the best 8 players throughout the year can enter. This tournament gives 1500 ATP points to the winner. 
-- Master 1000: 9 tournaments per year. The winner gets 1000 ATP points. 
-- Event 500: 11 tournaments per year. The winner gets 500 ATP points. 
-- Event 250: 42 tournaments per year. The winner gets 250 ATP points. 
+- _Grand Slam_: 4 tournam-ents per year. This type of events gives the most money and the most points, the winner wins 2000 ATP points. 
+- _Master Finals_: 1 tournament per year and only the best 8 players throughout the year can enter. This tournament gives 1500 ATP points to the winner. 
+- _Master 1000_: 9 tournaments per year. The winner gets 1000 ATP points. 
+- _Event 500_: 11 tournaments per year. The winner gets 500 ATP points. 
+- _Event 250_: 42 tournaments per year. The winner gets 250 ATP points. 
 
 On average a player outside the top 100 of the world plays around 20 – 30 tournaments in a year, as a player start earning more points and move up the rankings they can be more selected on which tournaments to play; a player inside the top 20 only plays on average 15 – 20 tournaments to be on a good shape and get the best results in the best tournaments of the year. 
 
@@ -161,18 +161,41 @@ Write here
 
 <br>
 
-## Q5: HOW DOES THEIR SERVE VARIES ACCORDING TO THE SURFACE PLAYED?
+## Q5: HOW DOES THEIR SERVE STATISTICS VARIES ACCORDING TO THE SURFACE PLAYED?
 The serve is considered the most important shot in tennis because it sets the tone for the entire point. A good serve gives a player a significant advantage and allows them to dictate the pace of the rally. If a player can consistently serve well, they can control the game, put pressure on their opponent, and create opportunities for easy points. Additionally, serving well can also help a player maintain their confidence and mental edge throughout the match.
 
-In the table below we can observed the career most importat statistics to analyze a good serve for the Big Three.
-- Ratio First Serve In: ratio of 1st serves in and 1st serves made.
-$% 1st serve ratio = \frac{# of 1st serves in}{# of first serves produced}$
+In the table below we can observed the career most importat statistics to analyze a good serve.
 
-There are four different tennis surfaces in which profesional torunaments are played, Hard, Caly, Grass and Carpet; deppending on the surface the ball will bounce in different speeds and high altering completely how the the opponent on the other side of the court will fell the coming serve. 
+- $\text{1st serve ratio} = \frac{\text{[no. of 1st serves in]}}{\text{[total 1st serves]}}$
 
-- Hard Courts: most common type of surface composed on aspahlt and concrete with a coatin of pait or acrylic on top. This type of surfaces have lower energy assumption than clay courts, making the ball move faster. This benefits aggresive players that like to play from the baseline. 
-- Clay courts: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface for ball speed, making it easier to return a high speed serve. In the countrary if offers high bounce so players that hit with a lot of top-spin are highly favourable; moreover points tend to last longer. 
-- Grass Courts: a grass surface consists of short-cut grass on a tighly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and also offers the lowest bounce, making rallies short and fast, this type of courts 
+- $\text{2nd serve ratio} = \frac{\text{[no. of 2nd serves in]}}{\text{[total 2nd serves]}}$
+
+- $\text{Prob. of winning a point after a succesful 1st serve} = \frac{\text{[points won with the 1st serve]}}{\text{[no. of 1st serves in]}}$
+
+- $\text{Prob. of winning a point after a succesful 2nd serve} = \frac{\text{[points won with the 2nd serve]}}{\text{[no. of 2nd serves in]}}$
+
+- $\text{Prob. of winning a point at serve} = \text{[1st serve ratio] } * \text{ [Prob. of winning a point after a succesful 1st serve]} + (1 - \text{[1st serve ratio]}) * \text{ [2nd serve ratio] } * \text{ [Prob. of winning a point after a succesful 2nd serve]}$
+
+On the graph below we acan observe that Nadal has a the higher 1st serve percentage with 67.74% and Federer the best 2nd serve with 93.87. Making a succesful serve does not warranty you better results, you need to make sure that is a good enough shot to help you dictate the point. According to Andrea Cazzaro, the best way to understand the influence of the serve in a match is to compute the probability of winning a point at serve which is calculated with the probability of winning a point after a succesful 1st serve and the probability og winning a point after a succesful 2nd serve. As we can see Federer has a better chance to win the point at serve with a 70.78%, Djocovik is second with 68.53% and Nadal last with 68.35%. Depite Federer not having the fastests serve with an average of 200 km/hr he is probably one of the best ones at varying effects and directions making his opponents always guessing what type of serve is comminig. 
+
+<p align="center">
+<img src="images\q5_serve_all.png" alt="Serve Statistics" width="600"/>
+</p>
+
+<br>
+
+There are four different tennis surfaces in which profesional torunaments are played, Hard, Caly, Grass and Carpet; deppending on the surface the ball will bounce in different speeds and high altering completely how the opponent will fell the coming serve, thus players needs to make adjustements in their game. 
+
+- _Hard Courts_: most common type of surface composed on aspahlt and concrete with a coatin of pait or acrylic on top. This type of surfaces have lower energy assumption than clay courts, making the ball move faster. This benefits aggresive players that like to play from the baseline. 
+- _Clay courts_: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface for ball speed, making it easier to return a high speed serve. In the countrary if offers high bounce so players that hit with a lot of top-spin are highly favourable; moreover points tend to last longer. 
+- _Grass Courts_: a grass surface consists of short-cut grass on a tighly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and also offers the lowest bounce, making rallies short and fast, this type of courts are befeficial to great servers. 
+- _Carpet Courts_: also called synthetic, offers all the advantages of a grass court like the high speed and low bounce but with a super low maintenance cost. On top of the syntethic fiber sand covers the court to help it decrease the wear over time. 
+
+Federer is the leader with a probability of winning a point at serve higher regardless of the surface, with the highest probability in grass, where he had the most suscess in his career. 
+
+<img src="images\q5_serve_surface.png" alt="Serve Statistics by surface played" width="700"/>
+
+ Despite serving is the most important shot in tennis, there are other important factors that can alter the outcome of the match, for example the physical conditioin of the player, ground strokes, volleys, mentally sntrenght, etc. To showcase this argument I included the W-L Ratio of their career by surface. Nadal has a 91.05% W-L ratio on Clay and he posses the longest win streak in a single surface with 81 matches won between 2005 and 2007. Djokovik best W-L ratio is on hard courts with 84.71% and Federer on Grass with 87.78%.
 
 <br>
 
