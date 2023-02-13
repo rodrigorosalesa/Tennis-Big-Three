@@ -205,7 +205,7 @@ To understand how the court surfaces affect their serve, we need to understand f
 - _Clay courts_: clay courts are made of a coarse mixture made from brick. Clay courts is the slowest surface, making it easier to return a high speed serve. In the contrary if offers high bounce so players that hit with lots of topspin are highly favourable; moreover, points tend to last longer. 
 - _Grass Courts_: consists of short-cut grass on a tightly packed soil, being the less common surface today due to the high cost of maintenance. Grass is the fastest surface and offers the lowest bounce, making rallies short and fast, this type of courts is beneficial to great servers. 
 
-<img src="images\q5_serve_surface.png" alt="Serve Statistics by surface played" width="700"/>
+<img src="images\q5_serve_surfaces.png" alt="Serve Statistics by surface played" width="700"/>
 
 As we were expecting, probability of winning a point after a successful serve varies in accordance to the speed of the surface, for clay in decreases between 2-3% and for grass it incremented between 1 and 3%, Roger Federer maintained the status as the best server of the three regardless of the court surface.
 
