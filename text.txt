@@ -1,0 +1,9 @@
+- $\text{1st serve ratio} = \frac{\text{[no. of 1st serves in]}}{\text{[total 1st serves]}}$
+
+- $\text{2nd serve ratio} = \frac{\text{[no. of 2nd serves in]}}{\text{[total 2nd serves]}}$
+
+- $\text{Prob. of winning a point after a succesful 1st serve} = \frac{\text{[points won with the 1st serve]}}{\text{[no. of 1st serves in]}}$
+
+- $\text{Prob. of winning a point after a succesful 2nd serve} = \frac{\text{[points won with the 2nd serve]}}{\text{[no. of 2nd serves in]}}$
+
+- $\text{Prob. of winning a point when serve is good} = \text{[1st serve ratio] } * \text{ [Prob. of winning a point after a succesful 1st serve]} + (1 - \text{[1st serve ratio]}) * \text{ [2nd serve ratio] } * \text{ [Prob. of winning a point after a succesful 2nd serve]}$

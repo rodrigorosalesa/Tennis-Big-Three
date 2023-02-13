@@ -177,17 +177,11 @@ Nadal has the highest score for pressure points won ratio with a 54.09%, Djokovi
 ## Q5: HOW DOES THEIR SERVE STATISTICS VARIES ACCORDING TO THE SURFACE PLAYED?
 The serve is considered the most important shot in tennis because it sets the tone for the entire point. A good serve gives a player a significant advantage and allows them to dictate the pace of the rally. If a player can consistently serve well, they can control the game and put constant pressure on their opponents. 
 
-In the table below we can observe the most importat statistics to analyze a good serve:
+Below the most importat statistics to analyze a good serve:
 
-- $\text{1st serve ratio} = \frac{\text{[no. of 1st serves in]}}{\text{[total 1st serves]}}$
-
-- $\text{2nd serve ratio} = \frac{\text{[no. of 2nd serves in]}}{\text{[total 2nd serves]}}$
-
-- $\text{Prob. of winning a point after a succesful 1st serve} = \frac{\text{[points won with the 1st serve]}}{\text{[no. of 1st serves in]}}$
-
-- $\text{Prob. of winning a point after a succesful 2nd serve} = \frac{\text{[points won with the 2nd serve]}}{\text{[no. of 2nd serves in]}}$
-
-- $\text{Prob. of winning a point when serve is good} = \text{[1st serve ratio] } * \text{ [Prob. of winning a point after a succesful 1st serve]} + (1 - \text{[1st serve ratio]}) * \text{ [2nd serve ratio] } * \text{ [Prob. of winning a point after a succesful 2nd serve]}$
+<p align="center">
+<img src="images\q5_formulas.png" alt="Serving Statistics" width="500"/>
+</p>
 
 On the graph below we see that Nadal has the higher 1st serve ratio with 67.74% and Federer the best 2nd serve ratio with 93.87%. Having more successful serves do not warranty you more points, you need to assure that is a good enough shot to help you dictate the point. According to Andrea Cazzaro, the best way to understand the influence of the serve in a match is to compute the probability of winning a point when the serve is successful, which is calculated with the probability of winning a point after a successful 1st serve and the probability of winning a point after a successful 2nd serve (formula described above). 
 
