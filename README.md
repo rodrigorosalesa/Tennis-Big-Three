@@ -28,7 +28,7 @@ As tennis is growing as a sport globally, the professional tennis circuit is gro
 
 There have been many great tennis players throughout the years, but none of them have shaped the sport as the Big Three. Roger Federer, Rafael Nadal, and Novak Djokovic are considered the greatest players that ever hold a tennis racket.
 
-In this project, I aim to analyze their performance and compare their statistics to gain insights into their careers. By examining data on their matches, rankings, and Grand Slam victories, I hope to showcase the careers of these players and what has made them some of the greatest athletes to ever grace the court.
+In this project, I aim to analyze their performance and compare their statistics to gain insights into their careers. By examining data on their matches, rankings, and Grand Slam victories, I hope to show what has made them some of the greatest athletes to ever step on a tennis court.
 
 <br>
 
@@ -76,7 +76,7 @@ On the following visualization we can see how Federer, Nadal and Djokovik moved 
 
 Since 2004 these 3 players have dominated the ATP ranking. Below, I am showing the end year ranking as the goal to every tennis player is finish the year at the top of the rankings, meaning there was no other player better than them in the season. Federer and Nadal have 5 year-end no. 1, the Swiss in 2004, 2005, 2006, 2007, and 2009, and the Spaniard in 2008, 2010, 2013, 2017, and 2019; however, Djokovic has the record with 7 during the years of 2011, 2012, 2014, 2015, 2018, 2020, and 2021. Only 2 years since 2004 other tennis player apart from the big three have finished the year as no. 1, in 2016 Andy Murray and in 2022 Carlos Alcaraz.
 
-Moreover, in the following table we can appreciate the brutal dominance of the Big Three at the top of the rankings; since 2004 until January 30th of 2023, 941 weeks have passed in which the Big Three have combined 802 weeks at the top of the ranking, this means that three players have shared the title of “best player of the world” more than 88% percent of the time. It is important to state that despite Djokovic hold the record for more weeks as no. 1, Federer holds the record for more consecutive weeks at the top with 237 starting February 2nd of 2004 and ended 17 August 2008 after loosing the Wimbledon final with Nadal.
+Moreover, in the following table we can appreciate the brutal dominance of the Big Three at the top of the rankings; since 2004 until January 30th of 2023, 941 weeks have passed in which the Big Three have combined 802 weeks at the top of the ranking, this means that three players have shared the title of “best player of the world” more than 88% percent of the time. It is important to state that despite Djokovic hold the record for more weeks as no. 1, Federer holds the record for more consecutive weeks at the top with 237, starting February 2nd of 2004 and ended 17 August 2008, after loosing the Wimbledon final with Nadal.
 
 <p align="center">
 <img src="images\q1_weeks.png" alt="Weeks as no. 1" width="400"/>
@@ -92,7 +92,7 @@ Winning an ATP tournament is the greatest accomplishment when entering to profes
 - _Event 500_: 11 tournaments per year. Winner gets 500 ATP points. 
 - _Event 250_: 42 tournaments per year. Winner gets 250 ATP points. 
 
-On average a player outside the top 100 of the world plays around 20 – 30 tournaments in a year, as a player starts earning more points and move up the rankings they can be more selective on which tournaments to play; a player inside the top 20 only plays on average 15 – 20 tournaments to be on a good shape and get the best results in the important tournaments of the year. 
+On average a player outside the top 100 of the world plays around 20 – 30 tournaments in a year, as players start earning more points and move up the rankings they can be more selective on which tournaments to play; a player inside the top 20 only plays on average 15 – 20 tournaments to be on good shape and get the best results in the important tournaments of the year. 
 
 Here below we can see a line graph that represents the breakdown of the titles of the Big Three during their careers. 
 
@@ -100,7 +100,7 @@ Here below we can see a line graph that represents the breakdown of the titles o
 
 As we observed, Roger Federer is the one with most titles among the 3, with 103, being the only active player that has surpassed the barrier of 100 titles won. Federer holds the record for a male player with most titles with 12 in a single season (2006). Novak Djokovik is in a close second with 94 titles and Nadal is last with 92. 
 
-To understand better what big tournaments (Grand Slams, M1000 and World Tour Finals) the Big Three has won over the years I created the following Tree Map, subdivided by tournament and player; the size and color are represented with the number of matches won in the event, first number is the number of wins and second is the number is the number of titles won. Nadal has dominated the French Open since his first title in 2005 at the age of 19. Federer has more wins in the rest of the Grand Slams, Wimbledon with 106, Australian Open with 103 and US Open with 91, Djokovik just won his 10th Australina Open last month. 
+To understand better what big tournaments (Grand Slams, M1000 and World Tour Finals) the Big Three has won over the years I created the following Tree Map, subdivided by tournament and player; the size and color represent the number of matches won in the event, first number is the number of wins and second the number of titles won. Nadal has dominated the French Open since his first title in 2005 at the age of 19 with 122 wins, Federer has more wins in the rest of the Grand Slams, Wimbledon with 106, Australian Open with 103 and US Open with 91. 
 
 <img src="images\q2_titles_tree.png" alt="Big titles and matches won distribution" width="1200"/>
 
@@ -111,7 +111,7 @@ As we mentioned Grand Slams tournaments are the most prestigious events in the y
 <br>
 
 ## Q3: BEST SINGLE SEASON OF THE BIG THREE
-During their career the has been moments when these athletes played in a godly manner, appearing to be invincible. In this question I want to showcase the best season of their carers and analysing the most important stats. To have a comparison, in the table below is represented the win-lose ratio of their career. 
+During their career there has been moments when these athletes played in a godly manner, appearing to be invincible. In this question I want to showcase the best season of their carers and analysing the most important stats. To have a comparison, in the table below is represented the win-lose ratio of their career. 
 
 <p align="center">
 <img src="images\q3_WL_ratio_career.png" alt="Career´s Win-Lose Ratio" width="300"/>
@@ -123,9 +123,9 @@ During their career the has been moments when these athletes played in a godly m
 
 <img src="images\q3_nadal.png" alt="Nadal's 2013 season" width="1200"/>
 
-Considerer one of the greatest comeback seasons of all time, as the previous year Nadal did not played since June due a to an injury, he missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. 
+Considered one of the greatest comeback seasons of all time, as the previous year Nadal did not played since June due a to an injury, he missed the first Grand Slam of the year, the Australian Open. He finished the year as no. 1 player of the world, 11 titles, including 2 Grand Slams (Roland Garros and US Open) and 4 M1000. 
 
-He had a a win-lose ratio of 92.5% (9.88% over the WL Ratio oh his career), winning 81 matches out of 88. He lost only two matches, won 6 clay titles and accumulated a 22 winning streak during a the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
+He had a win-lose ratio of 92.5% (9.88% over the WL Ratio of his career), winning 81 matches out of 88. He lost only two matches, won 6 clay titles and accumulated a 22 winning streak during the clay court season, ending with a lost in first round in Wimbledon against Steve Darcis, being the only lost he had before a semifinals during the year. 
 
 <p align="center">
 <img src="images\q3_nadal_matches.png" alt="Nadal´s 2013 matches" width="500"/>
@@ -137,9 +137,9 @@ He had a a win-lose ratio of 92.5% (9.88% over the WL Ratio oh his career), winn
 
 <img src="images\q3_djokovic.png" alt="Djokovic's 2015 season" width="1200"/>
 
-Djokovic began a dominance in profesional tennis in the season of 2011, but his greatest season came in 2015, considered one of the greatest seasons of all time. He reached the final of all of the Grand Slam and won 3, Australian Open, Wimbledon and US Open. The serbian was the no. 1 player of the world for the whole year, won 6 M1000 tournament and reached the final in 8 of them. At the end of the year he claimed the ATP World Tour Finals, an event that only the 8 best player of the year can enter. 
+Djokovic began a dominance in profesional tennis in the season of 2011, but his greatest season came in 2015, considered one of the greatest seasons of all time. He reached the final of all the Grand Slam and won 3, Australian Open, Wimbledon and US Open. The serbian was the no. 1 player of the world for the whole year, won 6 M1000 tournament and reached the final in 8 of them. At the end of the year he claimed the ATP World Tour Finals, an event that only the 8 best players during the year can enter. 
 
-Djokovic ended his 2015 season with 11 tittles, a Win-Lose Ratio of 93.26% (9.64% over the WL Ratio oh his career), winning 83 matches out of 89. He finished the season with a record of of 4-0 againts Nadal, even beating him at the quarter finals of Roland Garros, and a record of 5-3 versus Federer, including his victory in the Wimbledon Final. He lost to Ivo Karlovik in the quarter finals of the Qatar Open, making this tournament the only in which he didn´t get at least to the final. Novak Djokovic is considered the player of the 2010-2020 decade.
+Djokovic ended his 2015 season with 11 tittles, a Win-Lose Ratio of 93.26% (9.64% over the WL Ratio of his career), winning 83 matches out of 89. He finished the season with a record of 4-0 againts Nadal, even beating him at the quarter finals of Roland Garros, and a record of 5-3 versus Federer, including his victory in the Wimbledon Final. He lost to Ivo Karlovik in the quarter finals of the Qatar Open, making this tournament the only in which he didn´t get at least to the final. Novak Djokovic is considered the player of the 2010-2020 decade.
 
 <p align="center">
 <img src="images\q3_djokovic_matches.png" alt="Djokovic´s 2015 matches" width="500"/>
@@ -151,7 +151,7 @@ Djokovic ended his 2015 season with 11 tittles, a Win-Lose Ratio of 93.26% (9.64
 
 <img src="images\q3_federer.png" alt="Federer's 2006 season" width="1200"/>
 
-During the end of 2003 until mid 2008 we saw the Swiss dominated professional tennis like no one has done it before and probably no player would ever do it again. Roger´s 2006 season is considered by many tennis experts the best tennis season of the open era. He maintained the no. 1 position in the ATP ranking for the whole year and finished no. 1 for a third year in a row, he won 3 Grand Slams, the Australian Open, Wimbledon for a fourth time in a row and the US Open for a third time in a row; he lost in the Final of Roland Garros to the Nadal. 
+During the end of 2003 until mid 2008 we saw the Swiss dominated professional tennis like no one has done it before and probably no player would ever do it again. Roger´s 2006 season is considered by many tennis experts the best tennis season of the open era. He maintained the no. 1 position in the ATP ranking for the whole year and finished no. 1 for a third year in a row, he won 3 Grand Slams, the Australian Open, Wimbledon for a fourth time in a row and the US Open for a third time in a row; he lost in the Final of Roland Garros to Nadal. 
 
 In addition to that, Federer reached the finals in 6 M100 finals from the 7 that he entered and won 4 on hard courts and loosing 2 in clay. He won the ATP World Tour Finals. He finished the year with a record of 12 titles, becoming the male player with most titles in a single season. He ended the season with a Win-Lose Ratio of 94.85% (12.07 over the WL Ratio oh his career), winning 92 matches out of 97, he finished the year with a 27 winning streak that continued in the 2007 season, reaching 41 matches won in a row. He reached the finals of every tournament he played but the Cincinnati Masters where he lost to Andy Murray in the second round. Roger Federer is considered the tennis player of the 2000-2010 decade.
 
@@ -162,7 +162,7 @@ In addition to that, Federer reached the finals in 6 M100 finals from the 7 that
 <br>
 
 ## Q4: WHO PERFORMS BETTER UNDER PREASURE?
-In tennis, pressure points are moments in a match when the outcome could significantly impact the outcome of the match. These moments often arise in critical situations, such as break points, set points, or match points. 
+In tennis, pressure points are very important as they could significantly impact the outcome of the match. These points often arise in critical situations, such as break points, set points, or match points. 
 
 On the following graph we can observe three important statistics, break points saved ratio at serving, break points conversion ratio at return, and preassure points won ratio, which is an average of the previous two; this last one is the best representation on how good a player when stakes are higher.
 
@@ -201,7 +201,7 @@ To understand how the court surfaces affect their serve, we need to understand f
 
 <img src="images\q5_serve_surfaces.png" alt="Serve Statistics by surface played" width="700"/>
 
-As we were expecting, probability of winning a point after a successful serve varies in accordance to the speed of the surface, for clay in decreases between 2-3% and for grass it incremented between 1 and 3%, Roger Federer maintained the status as the best server of the three regardless of the court surface.
+As we were expecting, probability of winning a point after a successful serve varies in accordance to the speed of the surface, for clay it decreased between 2-3% and for grass incremented between 1 and 3%, Roger Federer maintained the status as the best server of the three regardless of the court surface.
 
 As important as the serve is, there are other important factors that can alter the outcome of the match, for example the physical condition of the player, ground strokes, volleys, mentally strength, etc. I included the W-L Ratio of their career by surface to understand how good players are in each surface. Nadal has a 91.05% W-L ratio on Clay and he posses the longest win streak in a single surface with 81 matches won between 2005 and 2007. Djokovic best W-L ratio is on hard courts with 84.71% and Federer on Grass with 87.78%.
 
