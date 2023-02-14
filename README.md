@@ -169,7 +169,7 @@ On the following graph we can observe three important statistics, break points s
 Nadal has the highest score for pressure points won ratio with a 54.09%, Djokovic in close second and Federer is last. One of the key aspects to win important points, apart from the tennis skills, is the mental strength of the players and the ability to manage nerves, Rafael Nadal is considered by many the greatest fighter on tour and possesses one of the toughest mentalities on tour.
 
 <p align="center">
-<img src="images\q5_preassure_points.png" alt="Preassure points ratio" width="550"/>
+<img src="images\q5_preassure_points_b.png" alt="Preassure points ratio" width="550"/>
 </p>
 
 <br>
