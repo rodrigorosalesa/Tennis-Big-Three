@@ -42,7 +42,7 @@ In this project, I aim to analyze their performance and compare their statistics
 <br>
 
 ## DATASET
-To answer my guiding questions, I am using data of every match played in the profesional tennis circuit from 2020 to 2022. Data was obtained from a Git repository named [Tennis ATP](https://github.com/JeffSackmann/tennis_atp) that was created and is currently maintained by Jeff Sackman. Important statistics of every match can be observed, alongside information about the tournaments, ranking and more.
+To answer my guiding questions, I am using data of every match played in the profesional tennis circuit from 2000 to 2023. Data was obtained from a Git repository named [Tennis ATP](https://github.com/JeffSackmann/tennis_atp) that was created and is currently maintained by Jeff Sackman. Important statistics of every match can be observed, alongside information about the tournaments, ranking and more.
 
 <br>
 
