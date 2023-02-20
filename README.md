@@ -22,7 +22,7 @@
 <br> <br>
 
 ## INTRODUCTION
-Tennis is one of the most popular sports globally, acording to the Internationa Tennis Federation is calculated that 87 million of people played the white sport in 2022, which is an increment of 4.5% from 2018, more than 578,000 courts ara available worldwide in over 115,000 facilities. 
+Tennis is one of the most popular sports globally, acording to the International Tennis Federation is calculated that 87 million of people played the white sport in 2022, which is an increment of 4.5% from 2018, more than 578,000 courts ara available worldwide in over 115,000 facilities. 
 
 As tennis is growing as a sport globally, the professional tennis circuit is growing accordingly, more people are interested to follow it and the accessibility to watch events happening around the world is better than ever. 
 
